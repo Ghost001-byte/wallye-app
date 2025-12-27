@@ -1,0 +1,2 @@
+# nessuna dipendenza obbligatoria
+# se in futuro aggiungi dipendenze, elencale qui (es. wordcloud)
